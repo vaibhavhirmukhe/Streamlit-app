@@ -4,8 +4,6 @@ from evidently.report import Report
 from evidently.metrics import DataDriftTable,DatasetDriftMetric, DatasetSummaryMetric, ColumnSummaryMetric,ColumnValueListMetric, ColumnDriftMetric, ColumnDistributionMetric, DatasetMissingValuesMetric
 from evidently import ColumnMapping
 import streamlit.components.v1 as components
-from category_encoders import TargetEncoder
-from sklearn.ensemble import RandomForestClassifier
 import os
 
 
