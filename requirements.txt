@@ -1,5 +1,4 @@
 pandas
 streamlit
 evidently
-sklearn
 os
